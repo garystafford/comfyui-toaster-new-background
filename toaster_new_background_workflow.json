@@ -300,7 +300,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "shutterstock_1331874611_mask1.png",
+        "image_mask1.png",
         "image"
       ]
     },
@@ -339,7 +339,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "shutterstock_1331874611.jpg",
+        "image.jpg",
         "image"
       ]
     },
