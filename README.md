@@ -28,3 +28,7 @@ ComfyUI workflow for generating multiple image variations from an image with a m
       <td><img src="assets/ComfyUI_00247_.png" alt="Toaster variation" width="384"/></td>
    </tr>
 </table>
+
+---
+
+_The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners._
