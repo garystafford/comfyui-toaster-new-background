@@ -1,6 +1,6 @@
 # ComfyUI Image Variations with a Mask Demo
 
-ComfyUI workflow for image variations with Stability AI's Stable Diffusion XL (SDXL) foundation model
+ComfyUI workflow for generating multiple image variations from an image with a mask. Uses Stability AI's Stable Diffusion XL (SDXL) foundation model or similar fine-tuned models.
 
 ![ComfyUI Workflow](./assets/toaster_workflow_halfsize.png)
 
