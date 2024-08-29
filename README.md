@@ -4,6 +4,10 @@ ComfyUI workflow for generating multiple image variations from an image with a m
 
 ![ComfyUI Workflow](./assets/toaster_workflow_halfsize.png)
 
+Second, similar workflow that relies on separate mask file.
+
+![ComfyUI Workflow 2](./assets/burger_workflow.png)
+
 ## Sample Images
 
 <table>
